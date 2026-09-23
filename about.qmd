@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Hi! I'm Gita, a masters student studying Environmental Data Science at the Bren School.
+
+In my undergrad I studied Environmental Science at UCLA, with a concentration in Environmental Systems and Society. I've always been interested in the intersection of data science and the environment, and in my undergrad I worked with the Center on Biological Diversity to analyze data on thousands of idle oil and gas wells across the state of California. Using idle well management plans, I assessed operator compliance regarding plugging and abandoning wells, particularly in state designated Health Protection Zones.
+
+I'm also very passionate about energy and decarbonization, and since 2023 I've worked at the California Energy Commission on the Demand Side Grid Support Program, an initiative to improve California’s grid reliability, particularly during extreme weather events. Both of these experiences have led me to pursue a masters in environmental data science, where I hope to improve my programming and data science skills and more effectively solve the energy and environmental issues I'm passionate about
