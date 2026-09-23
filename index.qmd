@@ -1,7 +1,19 @@
 ---
-title: "gitanjali1024.github.io"
+title: "Gitanjali Sharma"
+image: "images/headshot.jpg"
+toc: false
+about:
+    template: trestles
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/gitanjali-sharma1/
+          target: blank
+        - text: Email
+          href: mailto:gitanjali1024@gmail.com
+        - text: GitHub
+          href: https://github.com/gitanjali1024
 ---
 
-This is a Quarto website. 
+This is where my bio will go!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
